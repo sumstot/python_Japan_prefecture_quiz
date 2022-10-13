@@ -16,7 +16,7 @@ SCORE = 0
 
 guessed_prefectures = []
 
-
+#used to get coordinates
 # def get_mouse_click_coor(x, y):
 #     print(x, y)
 #
